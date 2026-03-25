@@ -73,9 +73,7 @@ Rather than revealing fragility or craft, it dissolves the distinction between p
 work is not uncovered, but becomes part of the performance itself. As a result, there is no meaningful “behind” to the image, only a
 continuous surface in which construction and performance are indistinguishable.
 
-**Fischerspooner – _Emerge_ (Skin Version), 2000**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M4uSTdJo4zk" title="Fischerspooner - Emerge (Skin Version)" frameborder="0" allowfullscreen></iframe>
+[**Fischerspooner – _Emerge_ (Skin Version), 2000**](https://www.youtube.com/embed/M4uSTdJo4zk)
 
 Where the two videos diverge is in how this fabrication is resolved. The earlier, more fragmented video interrupts its own construction
 through glitches, discontinuities, and the entanglement of performance with production. This prevents the image from stabilizing into a
@@ -83,9 +81,7 @@ coherent whole: the accumulation of signs never resolves into a unified form, as
 in this case, is continually deferred, as the video exposes its own inability to sustain a stable image and repeatedly reminds the viewer of
 its deliberate construction.
 
-**Fischerspooner – _Emerge_, 2001**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HHbAtxSTXo0" title="Fischerspooner - Emerge (Remastered Video 2002)" frameborder="0" allowfullscreen></iframe>
+[**Fischerspooner – _Emerge_, 2001**](https://www.youtube.com/video/HHbAtxSTXo0)
 
 The later video, by contrast, follows the same logic of fabrication but stages it as a continuous escalation. It begins explicitly with
 behind-the-scenes imagery: the singers appliying makeup, the dancers dressing and preparing themselves. These usually are foregrounding
@@ -93,7 +89,7 @@ processes typically associated with intimacy and access. This quickly gives way 
 then intensify into exaggerated scenarios of mud and rain, before culminating in highly saturated, colorful imagery accompanied by the sound
 of a cheering crowd, simulating a live performance.
 
-This progression is crucial:the video moves from preparation directly into the production of spectacle rather than moving from preparation
+This progression is crucial: the video moves from preparation directly into the production of spectacle rather than moving from preparation
 to authenticity. The presence of crowd noise only reinforces this contradiction, as the visual setting makes it clear that this is a staged
 studio production. The video amplies tension when it should naturrally resolve it.
 
@@ -120,8 +116,6 @@ Contemporary criticism of the genre already pointed to this dynamic. Some of its
 packaged” return of existing forms, emphasizing its reliance on repetition and recombination rather than genuine novelty. In this sense, the
 genre does not attempt to escape the hypermediated condition described by Jean Baudrillard, but fully inhabits it. The production of meaning
 becomes inseparable from the circulation of its signs, and artistic emergence itself is transformed into a recognizable, repeatable effect.
-
-## Conclusion
 
 What initially appears as a simple affirmation: _“you don’t need to emerge”_ reveals itself, through closer analysis, as something far more
 complex. The song does not encourage self-acceptance in any straightforward sense; rather, it stages a world in which the very conditions
